@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\BeFit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|c:\\users\\student\\desktop\\befit\\befit\\models\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|solutionrelative:befit\\models\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|c:\\users\\student\\desktop\\befit\\befit\\models\\exercisesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|solutionrelative:befit\\models\\exercisesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|c:\\users\\student\\desktop\\befit\\befit\\models\\trainingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|solutionrelative:befit\\models\\trainingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|c:\\users\\student\\desktop\\befit\\befit\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|solutionrelative:befit\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Migrations\\20251018133047_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeFit\\Migrations\\20251018133047_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|c:\\users\\student\\desktop\\befit\\befit\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|solutionrelative:befit\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|c:\\users\\student\\desktop\\befit\\befit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|solutionrelative:befit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|c:\\users\\student\\desktop\\befit\\befit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C721E93-3F71-4384-AB64-09C3DC477F8A}|BeFit\\BeFit.csproj|solutionrelative:befit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Data\\AppUser.cs",
+              "RelativeDocumentMoniker": "BeFit\\Data\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Data\\AppUser.cs",
+              "RelativeToolTip": "BeFit\\Data\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:30:16.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExerciseType.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Models\\ExerciseType.cs",
+              "RelativeDocumentMoniker": "BeFit\\Models\\ExerciseType.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Models\\ExerciseType.cs",
+              "RelativeToolTip": "BeFit\\Models\\ExerciseType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:25:19.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainingSession.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Models\\TrainingSession.cs",
+              "RelativeDocumentMoniker": "BeFit\\Models\\TrainingSession.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Models\\TrainingSession.cs",
+              "RelativeToolTip": "BeFit\\Models\\TrainingSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:26:00.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExerciseSession.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Models\\ExerciseSession.cs",
+              "RelativeDocumentMoniker": "BeFit\\Models\\ExerciseSession.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Models\\ExerciseSession.cs",
+              "RelativeToolTip": "BeFit\\Models\\ExerciseSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:27:37.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251018133047_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Migrations\\20251018133047_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeFit\\Migrations\\20251018133047_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Migrations\\20251018133047_InitialCreate.cs",
+              "RelativeToolTip": "BeFit\\Migrations\\20251018133047_InitialCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:30:48.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BeFit\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BeFit\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:29:10.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\appsettings.json",
+              "RelativeDocumentMoniker": "BeFit\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\appsettings.json",
+              "RelativeToolTip": "BeFit\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T13:23:41.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Program.cs",
+              "RelativeDocumentMoniker": "BeFit\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\BeFit\\BeFit\\Program.cs",
+              "RelativeToolTip": "BeFit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:21:07.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
