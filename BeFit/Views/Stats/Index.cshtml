@@ -1,0 +1,37 @@
+@model IEnumerable<BeFit.Models.ExerciseStats>
+
+@{
+    ViewData["Title"] = "Exercise Statistics";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Statistics for the last 4 weeks</p>
+
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Exercise Name</th>
+            <th>Times Performed</th>
+            <th>Total Reps</th>
+            <th>Average Weight (kg)</th>
+            <th>Max Weight (kg)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ExerciseName</td>
+                <td>@item.TimesPerformed</td>
+                <td>@item.TotalReps</td>
+                <td>@item.AverageWeight.ToString("F2")</td>
+                <td>@item.MaxWeight.ToString("F2")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Back to Home</a>
+</div>
