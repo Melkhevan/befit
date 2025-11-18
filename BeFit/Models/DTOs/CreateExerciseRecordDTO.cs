@@ -5,26 +5,26 @@ namespace BeFit.Models.DTOs
     public class CreateExerciseRecordDTO
     {
         [Required]
-        [Display(Name = "Exercise Type")]
+        [Display(Name = "Typ ćwiczenia")]
         public int ExerciseTypeId { get; set; }
 
         [Required]
-        [Display(Name = "Training Session")]
+        [Display(Name = "Sesja treningowa")]
         public int TrainingSessionId { get; set; }
 
         [Required]
         [Range(0.1, 10000)]
-        [Display(Name = "Weight (kg)")]
+        [Display(Name = "Waga (kg)")]
         public decimal Weight { get; set; }
 
         [Required]
         [Range(1, 1000)]
-        [Display(Name = "Sets")]
+        [Display(Name = "Serie")]
         public int Sets { get; set; }
 
         [Required]
         [Range(1, 1000)]
-        [Display(Name = "Reps")]
+        [Display(Name = "Powtórzenia")]
         public int Reps { get; set; }
     }
 }

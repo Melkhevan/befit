@@ -7,11 +7,11 @@ namespace BeFit.Models
         public int Id { get; set; }
 
         [Required]
-        [Display(Name = "Exercise Type")]
+        [Display(Name = "Typ ćwiczenia")]
         public int ExerciseTypeId { get; set; }
 
         [Required]
-        [Display(Name = "Training Session")]
+        [Display(Name = "Sesja treningowa")]
         public int TrainingSessionId { get; set; }
 
         [Required]
@@ -19,17 +19,17 @@ namespace BeFit.Models
 
         [Required]
         [Range(0.1, 10000)]
-        [Display(Name = "Weight (kg)")]
+        [Display(Name = "Waga (kg)")]
         public decimal Weight { get; set; }
 
         [Required]
         [Range(1, 1000)]
-        [Display(Name = "Sets", Description = "Number of sets")]
+        [Display(Name = "Serie", Description = "Liczba serii")]
         public int Sets { get; set; }
 
         [Required]
         [Range(1, 1000)]
-        [Display(Name = "Reps", Description = "Number of repetitions per set")]
+        [Display(Name = "Powtórzenia", Description = "Liczba powtórzeń w serii")]
         public int Reps { get; set; }
 
         public ExerciseType? ExerciseType { get; set; }

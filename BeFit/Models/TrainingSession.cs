@@ -7,11 +7,11 @@ namespace BeFit.Models
         public int Id { get; set; }
 
         [Required]
-        [Display(Name = "Start Time", Description = "When the training session started")]
+        [Display(Name = "Czas startu", Description = "Kiedy rozpoczęła się sesja treningowa")]
         public DateTime StartTime { get; set; }
 
         [Required]
-        [Display(Name = "End Time", Description = "When the training session ended")]
+        [Display(Name = "Czas zakończenia", Description = "Kiedy zakończyła się sesja treningowa")]
         public DateTime EndTime { get; set; }
 
         [Required]

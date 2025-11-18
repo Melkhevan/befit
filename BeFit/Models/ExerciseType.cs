@@ -8,7 +8,7 @@ namespace BeFit.Models
 
         [Required]
         [StringLength(100)]
-        [Display(Name = "Exercise Name", Description = "The name of the exercise type")]
+        [Display(Name = "Nazwa ćwiczenia", Description = "Nazwa typu ćwiczenia")]
         public string Name { get; set; } = string.Empty;
     }
 }

@@ -5,11 +5,11 @@ namespace BeFit.Models.DTOs
     public class CreateTrainingSessionDTO
     {
         [Required]
-        [Display(Name = "Start Time")]
+        [Display(Name = "Czas startu")]
         public DateTime StartTime { get; set; }
 
         [Required]
-        [Display(Name = "End Time")]
+        [Display(Name = "Czas zakończenia")]
         public DateTime EndTime { get; set; }
     }
 }
